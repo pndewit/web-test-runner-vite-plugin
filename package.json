@@ -1,0 +1,36 @@
+{
+  "name": "web-test-runner-vite-plugin",
+  "version": "1.0.0",
+  "description": "An @web/test-runner plugin to test Vite-powered projects.",
+  "main": "index.js",
+  "files": [
+    "package.json",
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pndewit/web-test-runner-vite-plugin.git"
+  },
+  "keywords": [
+    "plugin",
+    "vite",
+    "vite-plugin",
+    "web-test-runner",
+    "@web",
+    "@web/test-runner"
+  ],
+  "author": "Patrick de Wit <2362039+pndewit@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pndewit/web-test-runner-vite-plugin/issues"
+  },
+  "homepage": "https://github.com/pndewit/web-test-runner-vite-plugin#readme",
+  "peerDependencies": {
+    "@web/test-runner": "^0.15",
+    "vite": "^4"
+  }
+}

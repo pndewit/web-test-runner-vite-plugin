@@ -5,8 +5,9 @@
   "type": "module",
   "main": "index.js",
   "files": [
-    "package.json",
+    "CHANGELOG.md",
     "index.js",
+    "package.json",
     "README.md"
   ],
   "scripts": {
